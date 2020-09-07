@@ -13,6 +13,10 @@ module.exports = function () {
         id: 3, name: "Human Chess Board", category: "Chess",
         description: "A fun game for the family", price: 75
       },
+      {
+        id: 4, name: "Test", category: "Soccer",
+        description: "A fun game for the family", price: 50
+      }
     ],
     orders: []
   }
